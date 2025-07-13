@@ -25,7 +25,21 @@
 ## 📸 Screenshots
 
 
-| ![Login](screenshots/login.png) | ![Register](screenshots/register.png) | ![dashboard](screenshots/dashboard.png) | ![Create Post](screenshots/create_post.png) | ![public post](screenshots/public_post.png) 
+### Login
+![Login](Screenshots/login.png)
+
+### Register
+![Register](Screenshots/register.png)
+
+### Dashboard
+![Dashboard](Screenshots/dashboard.png)
+
+### Create Post
+![Create Post](Screenshots/create post.png)
+
+### Public Post View
+![Public Post](Screenshots/public post.png)
+
 
 ---
 
