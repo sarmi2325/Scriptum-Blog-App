@@ -1,4 +1,4 @@
-# 📝 Scriptum — A Flask Blog App with Google OAuth
+# 📝 Scriptum (Blog App)
 
 **Scriptum** is a clean, lightweight blog platform built with Flask where users can create both **public and private posts** using a rich text editor (TinyMCE). Authentication is handled via **Google OAuth** and traditional email/password login.
 
