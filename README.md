@@ -35,10 +35,10 @@
 ![Dashboard](Screenshots/dashboard.png)
 
 ### Create Post
-![Create Post](Screenshots/create post.png)
+![Create Post](Screenshots/create.png)
 
 ### Public Post View
-![Public Post](Screenshots/public post.png)
+![Public Post](Screenshots/public.png)
 
 
 ---
